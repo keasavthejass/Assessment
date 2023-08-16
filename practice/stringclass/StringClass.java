@@ -3,7 +3,7 @@ package com.stringclass;
 public class StringClass {
     public static void main(String[] args) {
         String msg = "  Hi,How are you?";
-        String msg2 = "Hi,Siva";
+        String msg2 = "Hi,Raja";
         System.out.println(msg.toUpperCase());
         System.out.println(msg.charAt(10));
         System.out.println(msg.contains("How"));
